@@ -37,7 +37,7 @@ export default function App() {
         </main>
 
         <footer>
-          <h4>Oi! Eu moro no footer!</h4>
+          <h4>Oi! Eu sou o footer!</h4>
         </footer>
       </div>
     </div>
